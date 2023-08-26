@@ -2,7 +2,7 @@
 
 Cover for the switch board. Intended to be laser cut/engraved on thin plastic of plywood.
 
-![Cover design]{./cover.svg)
+![Cover design](./cover.svg)
 
 ## Third party images used
 
