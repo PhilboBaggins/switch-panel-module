@@ -10,7 +10,6 @@ rm -rf "$OUTPUT_FILE"
 magick \
     -background none \
     cover.svg \
-    -density 300 \
     -resize 1000x1000 \
-    -crop 500x500+0+0 \
+    -crop 1000x500+0+0 \
     "$OUTPUT_FILE"
